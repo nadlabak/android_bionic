@@ -96,6 +96,7 @@
     XX(__aeabi_dsub)         \
     XX(__aeabi_f2d)          \
     XX(__aeabi_f2iz)         \
+    XX(__aeabi_f2uiz)        \
     XX(__aeabi_fadd)         \
     XX(__aeabi_fcmpun)       \
     XX(__aeabi_fdiv)         \
